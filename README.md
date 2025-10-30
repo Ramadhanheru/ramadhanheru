@@ -1,23 +1,9 @@
 # 🧠 Ramadhan Heru — Code Alchemist
 
-> _"I don’t follow the docs — sometimes I rewrite them."_ 😎
+> _"I don’t follow the docs — sometimes I rewrite them."_ 
 
 Hey there 👋  
-I’m **Ramadhan Heru**, a full-stack tinkerer who mixes **Laravel**, **Vue**, and a bit of madness ⚡ to turn caffeine into production-grade systems.  
-
-When I’m not shipping features or breaking builds at 3 AM, I’m probably:  
-- 🧩 Designing data pipelines that actually work  
-- 🧠 Teaching my AI models to behave (they rarely do)  
-- 🧱 Building dashboards that make spreadsheets jealous  
-- 🧭 Experimenting with architecture until it screams “elegant chaos”
-
----
-
-### 🧰 Tech Playground
-`Laravel` · `Vue` · `React` · `TypeScript` · `BigQuery` · `Python` · `Tailwind` · `Node.js` · `Three.js`  
-…and whatever else looks fun to break today.
-
----
+I’m **Ramadhan Heru**, a full-stack tinkerer who mixes **Laravel**, **Vue**, and a little bit of crazy madness ⚡ to turn caffeine into production-grade systems.  
 
 ### 🌴 Legacy Project — *My Palm Co*
 The journey started with **My Palm Co** — a bold move to digitize plantation performance.  
