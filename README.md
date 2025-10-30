@@ -1,4 +1,4 @@
-# 🧠 Ramadhan Heru — Code Alchemist
+# Ramadhan Heru
 
 > _"I don’t follow the docs — sometimes I rewrite them."_ 
 
@@ -30,7 +30,3 @@ What began as a simple dashboard turned into a data ecosystem that reshaped how 
 📫 [LinkedIn](https://linkedin.com/in/ramadhanheru) — talk tech, data, or digital chaos  
 💡 [GitHub Projects](https://github.com/ramadhanheru) — where my code lives dangerously  
 
----
-
-> _"I don't chase clean commits. I chase impact."_ 🚀  
-> — Ramadhan Heru
